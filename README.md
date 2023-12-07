@@ -1,2 +1,1 @@
-# code
-static wbsite code
+# aws-static-website-demo
